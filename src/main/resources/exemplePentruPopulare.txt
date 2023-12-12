@@ -1,0 +1,41 @@
+Category name:
+ 1.Plates;
+ 2.Cups;
+ 3.Bowls;
+ 4.Mugs.
+
+ Products:
+  1.
+  -name: Plate 18 cm Kingstar;
+  -category: Plates;
+  -price: 200,0;
+  -weight in grams: 200,0;
+  -product description: Plate with foot made by hand from black stoneware;
+  -image: /static/productImages/plate_black.jpg
+
+ Products:
+   2.
+   -name:Cup 160 ml Terra;
+   -category: Cups;
+   -price: 78,0;
+   -weight in grams: 250,0;
+   -product description: Handcrafted cup made of dark red stoneware (terracotta);
+   -image: /static/productImges/cup_terra.jpg
+
+ Products:
+    3.
+    -name:Bowl 10 cm Earth;
+    -category: Bowls;
+    -price: 78,0;
+    -weight in grams: 250,0;
+    -product description: Handmade bowl made of beige stoneware with chamotte content (large black-brown sand particles);
+    -image: /static/productImges/bowl.jpg
+
+Products:
+    4.
+    -name:Water 300 ml Mug;
+    -category: Mugs;
+    -price: 78,0;
+    -weight in grams: 250,0;
+    -product description: Handmade carafe from stoneware board;
+    -image: /static/productImges/mug.jpg
